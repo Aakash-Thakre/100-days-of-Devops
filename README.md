@@ -47,7 +47,7 @@ Each file contains the task description, steps taken, and the commands used.
 
 This challenge was completed and certified by **KodeKloud**.
 
-![KodeKloud Certificate]<img width="938" height="669" alt="image" src="https://github.com/user-attachments/assets/86a19b00-72b2-4b51-b46f-1cb01ec7f798" />
+<img width="938" height="669" alt="image" src="https://github.com/user-attachments/assets/86a19b00-72b2-4b51-b46f-1cb01ec7f798" />
 
 > *KodeKloud 100 Days of DevOps — Issued May 02, 2026 · Signed by Mumshad Mannambeth, Founder & Trainer*
 
