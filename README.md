@@ -44,16 +44,14 @@ Each file contains the task description, steps taken, and the commands used.
 
 | Days | Focus Area |
 |------|-----------|
-| 1 – 9 | Linux fundamentals (users, permissions, shells) |
-| 10 – 19 | Bash scripting & automation |
-| 20 – 29 | Web servers — Nginx, PHP-FPM, SSL |
-| 30 – 39 | Git (branches, merges, resets) |
-| 40 – 49 | Docker (installation, images, Dockerfiles) |
-| 50 – 69 | Kubernetes (pods, PVs, sidecars, deployments) |
-| 70 – 79 | Jenkins (pipelines, slave nodes, user access) |
-| 80 – 89 | Jenkins advanced & Ansible |
-| 90 – 99 | Ansible (ACLs, file management, automation) |
-| 100 | Terraform + AWS (CloudWatch, Security Groups) |
+| 1 – 8 | Linux fundamentals (users, permissions, shells) |
+| 8 – 20 | Web servers configuration, Troubleshooting— Nginx, Apache, Tomcat, PHP-FPM, SSL |
+| 21 – 34 | Git (branches, merges, resets) |
+| 35 – 47 | Docker (installation, images, Dockerfiles), Docker Compose, Networking |
+| 48 – 67 | Kubernetes (pods, PVs, sidecars, deployments) |
+| 68 – 81 | Jenkins (pipelines, slave nodes, user access), Jenkins Advanced |
+| 82 – 93 | Ansible (ACLs, file management, automation) |
+| 94 – 100 | Terraform + AWS (CloudWatch, Security Groups, EC2, VPC, IAM Policy)  |
 
 ---
 
