@@ -47,8 +47,7 @@ Each file contains the task description, steps taken, and the commands used.
 
 This challenge was completed and certified by **KodeKloud**.
 
-![KodeKloud Certificate][100_days_of_devops.pdf](https://github.com/user-attachments/files/27372090/100_days_of_devops.pdf)
-
+![KodeKloud Certificate]<img width="938" height="669" alt="image" src="https://github.com/user-attachments/assets/86a19b00-72b2-4b51-b46f-1cb01ec7f798" />
 
 > *KodeKloud 100 Days of DevOps — Issued May 02, 2026 · Signed by Mumshad Mannambeth, Founder & Trainer*
 
@@ -65,8 +64,5 @@ This challenge was completed and certified by **KodeKloud**.
 ## 👤 Author
 
 **Aakash Thakre**  
-[GitHub](https://github.com/aakashthakre) · [LinkedIn](https://linkedin.com/in/aakashthakre)
-
 ---
-
 *Happy learning! ⚡*
