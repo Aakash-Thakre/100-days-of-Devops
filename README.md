@@ -22,7 +22,7 @@ A hands-on, day-by-day journey through core DevOps tools and practices — compl
 
 ## 📖 What is this?
 
-This repository contains my daily notes, commands, and solutions for 100 real-world DevOps tasks. Each day covers a practical scenario — no fluff, just hands-on work.
+This repository contains my daily notes, commands, and solutions for 100 real-world DevOps tasks from Kodekloud. Each day covers a practical scenario — no fluff, just hands-on work.
 
 ---
 
