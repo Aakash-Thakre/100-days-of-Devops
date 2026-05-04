@@ -46,7 +46,7 @@ Each file contains the task description, steps taken, and the commands used.
 |------|-----------|
 | 1 – 8 | Linux fundamentals (users, permissions, shells) |
 | 8 – 20 | Web servers configuration, Troubleshooting— Nginx, Apache, Tomcat, PHP-FPM, SSL |
-| 21 – 34 | Git (branches, merges, resets) |
+| 21 – 34 | Git (branches, merges, resets, rebase, hooks) |
 | 35 – 47 | Docker (installation, images, Dockerfiles), Docker Compose, Networking |
 | 48 – 67 | Kubernetes (pods, PVs, sidecars, deployments) |
 | 68 – 81 | Jenkins (pipelines, slave nodes, user access), Jenkins Advanced |
